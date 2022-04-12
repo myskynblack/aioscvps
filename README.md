@@ -19,6 +19,8 @@
     <img src="https://github.com/myskynblack/aioscvps/blob/main/image/install.jpg" width="600" height="300" alt="hi" class="inline"/><br />
     <img src="https://github.com/myskynblack/aioscvps/blob/main/image/menu.jpg" width="600" height="300" alt="hi" class="inline"/><br />
         </p>
+    <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot 
+    </code></pre>
     <hr>
     <h3>Text Me !!</h3>
     <ul>
