@@ -20,9 +20,9 @@
     <section id="main_content" class="inner">
       <p align="center">
     <img src="https://github.com/myskynblack/aioscvps/blob/main/image/install.jpg" width="600" height="300" alt="hi" class="inline"/><br />
-    Installation Menu
+    Installation Menu<br>
     <img src="https://github.com/myskynblack/aioscvps/blob/main/image/menu.jpg" width="600" height="300" alt="hi" class="inline"/><br />
-    Main Menu Display
+    Main Menu Display<br>
         </p>
     How to Install to my VPS ???
     First Step: Do Update Latest Repository your VPS
