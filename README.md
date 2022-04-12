@@ -19,11 +19,11 @@
 <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
       <p align="center">
-    <img src="https://github.com/myskynblack/aioscvps/blob/main/image/install.jpg" width="600" height="300" alt="hi" class="inline"/><br />
+    <img src="https://github.com/myskynblack/aioscvps/blob/main/image/install.jpg" width="600" height="400" alt="hi" class="inline"/><br />
     Installation Menu<br>
-    <img src="https://github.com/myskynblack/aioscvps/blob/main/image/menu.jpg" width="600" height="300" alt="hi" class="inline"/><br />
+    <img src="https://github.com/myskynblack/aioscvps/blob/main/image/menu.jpg" width="600" height="400" alt="hi" class="inline"/><br />
     Main Menu Display<br>
-    <img src="https://github.com/myskynblack/aioscvps/blob/main/image/port.jpg" width="600" height="300" alt="hi" class="inline"/><br />
+    <img src="https://github.com/myskynblack/aioscvps/blob/main/image/port.jpg" width="600" height="400" alt="hi" class="inline"/><br />
     Default Port Configuration<br>
         </p>
     How to Install to my VPS ???<br>
