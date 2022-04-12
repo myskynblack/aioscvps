@@ -12,6 +12,7 @@
     <p align="center">
   <img src="https://github.com/myskynblack/aioscvps/raw/main/image/RasComVPNStore.png" width="300" height="300" alt="hi" class="inline"/><br />
   <img src="https://github.com/myskynblack/aioscvps/raw/main/image/os.png" width="600" height="300" alt="hi" class="inline"/><br />
+  Debian 9 & Debian 10 or Ubuntu 18.04 & Ubuntu 20.04
     </p>
 <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
@@ -19,7 +20,12 @@
     <img src="https://github.com/myskynblack/aioscvps/blob/main/image/install.jpg" width="600" height="300" alt="hi" class="inline"/><br />
     <img src="https://github.com/myskynblack/aioscvps/blob/main/image/menu.jpg" width="600" height="300" alt="hi" class="inline"/><br />
         </p>
+    How to Install to my VPS ???
+    First Step: Do Update Latest Repository your VPS
     <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot 
+    </code></pre>
+    Second Step: Do Download and Install The Latest Autoscript
+    <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y wget bzip2 gzip coreutils screen curl && wget https://script.rasyacomputer.co.id/install.sh && chmod +x install.sh && screen -S install ./install.sh 
     </code></pre>
     <hr>
     <h3>Text Me !!</h3>
