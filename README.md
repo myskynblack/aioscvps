@@ -35,8 +35,8 @@
     </code></pre>
     Why Should You Choose This Autoscript?
     <ul>
-    <li>Complete VPN Protocol Service
-    <li>API Service for Automatic Backup Management and License Validation
+    <li>Complete VPN Protocol Services
+    <li>API Services for Automatic Backup Management and License Validation<br>Private API for Sending Email & API Telegram Bot
     <li>Automatic Update to Latest Version
     <li>Best Technical Support
     </ul>
