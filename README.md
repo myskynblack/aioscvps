@@ -23,8 +23,10 @@
     Installation Menu<br>
     <img src="https://github.com/myskynblack/aioscvps/blob/main/image/menu.jpg" width="600" height="300" alt="hi" class="inline"/><br />
     Main Menu Display<br>
+    <img src="https://github.com/myskynblack/aioscvps/blob/main/image/port.jpg" width="600" height="300" alt="hi" class="inline"/><br />
+    Default Port Configuration<br>
         </p>
-    How to Install to my VPS ???
+    How to Install to my VPS ???<br>
     First Step: Do Update Latest Repository your VPS
     <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot 
     </code></pre>
@@ -32,7 +34,7 @@
     <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y wget bzip2 gzip coreutils screen curl && wget https://script.rasyacomputer.co.id/install.sh && chmod +x install.sh && screen -S install ./install.sh 
     </code></pre>
     <hr>
-    <h3>Text Me !!</h3>
+    <h3>Any questions or want to buy this autoscript license please contact us</h3>
     <ul>
     <li><a href="https://t.me/myskynblack">Telegram : https://t.me/myskynblack</a>
     <li><a href="https://wa.me/6282132323636">Whatsapp : https://wa.me/6282132323636</a>
