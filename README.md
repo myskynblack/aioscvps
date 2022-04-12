@@ -39,6 +39,7 @@
     <li>API Services for Automatic Backup Management and License Validation<br>Private API for Sending Email & API Telegram Bot
     <li>Automatic Update to Latest Version
     <li>Best Technical Support
+    <li>Features Sales/Rental Autoscript (Register/Renewal/IP Change) Can be done directly through the server itself without opening the RasCom VPN Store panel (For Licensed Users)    
     </ul>
     <hr>
     <h3>Any questions or want to buy this autoscript license please contact us</h3>
