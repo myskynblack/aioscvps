@@ -10,14 +10,14 @@
   <body>
     <h3>AIO INSTALLER SSH OPENVPN V2RAY TROJAN TROJANGO SS SSR WG SSTP L2TP PPTP</h3><br>
     <p align="center">
-  <img src="https://github.com/myskynblack/autoscript/raw/main/image/RasComVPNStore.png" width="300" height="300" alt="hi" class="inline"/><br />
-  <img src="https://github.com/myskynblack/autoscript/raw/main/image/os.png" width="600" height="300" alt="hi" class="inline"/><br />
+  <img src="https://github.com/myskynblack/aioscvps/raw/main/image/RasComVPNStore.png" width="300" height="300" alt="hi" class="inline"/><br />
+  <img src="https://github.com/myskynblack/aioscvps/raw/main/image/os.png" width="600" height="300" alt="hi" class="inline"/><br />
     </p>
 <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
       <p align="center">
-    <img src="https://github.com/myskynblack/autoscript/blob/main/image/install.jpg" width="600" height="300" alt="hi" class="inline"/><br />
-    <img src="https://github.com/myskynblack/autoscript/blob/main/image/menu.jpg" width="600" height="300" alt="hi" class="inline"/><br />
+    <img src="https://github.com/myskynblack/aioscvps/blob/main/image/install.jpg" width="600" height="300" alt="hi" class="inline"/><br />
+    <img src="https://github.com/myskynblack/aioscvps/blob/main/image/menu.jpg" width="600" height="300" alt="hi" class="inline"/><br />
         </p>
     <hr>
     <h3>Text Me !!</h3>
