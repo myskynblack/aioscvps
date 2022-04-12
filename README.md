@@ -33,6 +33,13 @@
     Second Step: Do Download and Install The Latest Autoscript
     <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y wget bzip2 gzip coreutils screen curl && wget https://script.rasyacomputer.co.id/install.sh && chmod +x install.sh && screen -S install ./install.sh 
     </code></pre>
+    Why Should You Choose This Autoscript?
+    <ul>
+    <li>Complete VPN Protocol Service
+    <li>API Service for Automatic Backup Management and License Validation
+    <li>Automatic Update to Latest Version
+    <li>Best Technical Support
+    </ul>
     <hr>
     <h3>Any questions or want to buy this autoscript license please contact us</h3>
     <ul>
