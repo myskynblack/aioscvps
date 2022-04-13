@@ -34,6 +34,7 @@
     <li> Support Restore With Automatic Chose Old Domain or New Domain
     <li> TLS/SSL Certificates from ZeroSSL/Let's Encrypt/Buypass Provider
     <li> Domain Auto Pointing from Cloudflare (You can Change It)
+    <li> Many more....
     </ul>
     <hr>
     How to Install to my VPS ???<br>
