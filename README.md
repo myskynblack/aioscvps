@@ -69,7 +69,7 @@
     </section>
 </div>
     <p align="center">
-  <img src="https://github.com/myskynblack/aioscvps/blob/main/image/thankyou.jpg" width="200" height="200" alt="hi" class="inline"/><br />
+  <img src="https://github.com/myskynblack/aioscvps/blob/main/image/thankyou.jpg" width="200" height="120" alt="hi" class="inline"/><br />
     </p>
 </body>
 </html>
