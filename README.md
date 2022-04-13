@@ -68,6 +68,8 @@
     <br /><br />
     </section>
 </div>
-
+    <p align="center">
+  <img src="https://github.com/myskynblack/aioscvps/raw/main/image/thankyou.png" width="200" height="200" alt="hi" class="inline"/><br />
+    </p>
 </body>
 </html>
