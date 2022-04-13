@@ -29,7 +29,7 @@
      <h3>Features: </h3>
     <ul> 
     <li> Create/Renew/Delete Account VPN Premium
-    <li> Trial Account With Spesific time (Hour
+    <li> Trial Account With Spesific time (Hours/Day)
     <li> Auto remove Expired User
     <li> Support Restore With Automatic Chose Old Domain or New Domain
     <li> TLS/SSL Certificates from ZeroSSL/Let's Encrypt/Buypass Provider
