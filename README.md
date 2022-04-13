@@ -41,6 +41,12 @@
     <li>Best Technical Support
     <li>Features Sales/Rental Autoscript (Register/Renewal/IP Change) Can be done directly through the server itself without opening the RasCom VPN Store panel (For Licensed Users)    
     </ul>
+     <h3>Prices List : </h3>
+    <ul> 
+    <li> 1 IP Address = 2 USD (Rp. 20.000,-) / 30 Days
+    <li> IP Lifetime = 10 USD (Rp. 100.000,-) 
+    <li> Lifetime License (Unlimited IP)= 60 USD (Rp. 500.000,-) 
+    </ul>
     <hr>
     <h3>Any questions or want to buy this autoscript license please contact us</h3>
     <ul>
