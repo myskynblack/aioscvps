@@ -56,7 +56,7 @@
     <ul> 
     <li> 1 IP Address = 2 USD (Rp. 20.000,-) / 30 Days
     <li> IP Lifetime = 10 USD (Rp. 100.000,-) 
-    <li> Lifetime License (Unlimited IP)= 60 USD (Rp. 500.000,-) 
+    <li> Lifetime License (Unlimited IP)= 100 USD (Rp. 1.000.000,-) 
     </ul>
     <hr>
     <h3>Any questions or want to buy this autoscript license please contact us</h3>
